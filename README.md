@@ -17,5 +17,5 @@ Oldagram is a unique project that aims to mimic the Instagram experience for anc
 ## Demo
 <img width="314" alt="image" src="https://github.com/LilaLiang/Oldagram/assets/103416879/8683ef88-dd67-4639-a51f-fbd037a14b38">
 <br/>
-Deployed on Netlify: https://6540ee85ba4ca06f9109d806--aquamarine-cajeta-17a63e.netlify.app/
+       Deployed on Netlify: https://6540ee85ba4ca06f9109d806--aquamarine-cajeta-17a63e.netlify.app/
 
