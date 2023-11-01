@@ -1,4 +1,4 @@
-# Oldagram- Bringing Ancient Art to the Gram
+# Oldagram - Bringing Ancient Art to the Gram
 
 Oldagram is a unique project that aims to mimic the Instagram experience for ancient artists like Van Gogh, allowing them to share their works with the world. In a world dominated by modern content, we give these timeless artists a platform to shine.
 
