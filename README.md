@@ -4,7 +4,7 @@ Oldagram is a unique project that aims to mimic the Instagram experience for anc
 
 ## Features
 
-- **Artist Profiles**: Each artist, like Van Gogh, gets a dedicated profile to showcase their artistry.
+- **Artist Profiles**: Each artist, like Van Gogh, gets a dedicated profile to showcase their artistry
 
 - **Post Artworks**: Artists can post their masterpieces, sharing them with a global audience.
 
